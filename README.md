@@ -1,3 +1,3 @@
 # Aplikasi Teknisi Skaliska
 
-`Aplikasi Teknisi Skaliska dibuat untuk keperluan inventaris peralatan lab sekolah`
+Aplikasi Teknisi Skaliska dibuat untuk keperluan inventaris peralatan lab sekolah
